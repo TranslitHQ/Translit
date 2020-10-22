@@ -4,16 +4,85 @@
 <url>
 	<loc>https://translit.cc/</loc>
 	<priority>1.0</priority>
-	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://translit.cc/am/</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://translit.cc/bg/</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://translit.cc/by/</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://translit.cc/ge/</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://translit.cc/gr/</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://translit.cc/ua/</loc>
+	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://translit.cc/webmasters</loc>
 	<priority>0.5</priority>
-	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://translit.cc/am/webmasters</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/bg/webmasters</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/by/webmasters</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/ge/webmasters</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/gr/webmasters</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/ua/webmasters</loc>
+	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://translit.cc/bookmarklet</loc>
 	<priority>0.5</priority>
-	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://translit.cc/am/bookmarklet</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/bg/bookmarklet</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/by/bookmarklet</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/ge/bookmarklet</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/gr/bookmarklet</loc>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://translit.cc/ua/bookmarklet</loc>
+	<priority>0.5</priority>
 </url>
 </urlset>
