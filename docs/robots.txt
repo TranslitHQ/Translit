@@ -1,4 +1,4 @@
-User-agent: *
-Allow: /
+User-agent: ia_archiver
+Disallow: /
 
 Sitemap: https://translit.cc/sitemap.xml
