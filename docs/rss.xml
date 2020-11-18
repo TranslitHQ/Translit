@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
 	<channel>
 		<title>Translit News</title>
-		<link>http://translit.cc/</link>
+		<link>https://translit.cc/</link>
 		<description>Recent news from TRANSLIT.CC</description>
-		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/translit" type="application/rss+xml" />
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="https://feeds.feedburner.com/translit" type="application/rss+xml" />
 		<item>
 			<title>Georgian Transliteration and Virtual Keyboard</title>
-			<description>To those who need to type in Georgian, we are happy to offer our virtual &lt;a href="http://ge.translit.cc/" title="Virtual Georgian keyboard"&gt;Georgian keyboard&lt;/a&gt;.</description>
-			<link>http://ge.translit.cc/</link>
-			<guid isPermaLink="false">#12 on 2008-05-26 at http://ge.translit.cc/</guid>
+			<description>To those who need to type in Georgian, we are happy to offer our virtual &lt;a href="https://translit.cc/ge/" title="Virtual Georgian keyboard"&gt;Georgian keyboard&lt;/a&gt;.</description>
+			<link>https://translit.cc/ge/</link>
+			<guid isPermaLink="false">#12 on 2008-05-26 at https://translit.cc/ge/</guid>
 			<pubDate>Mon, 26 May 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Greek Transliteration and Greeklish Translation</title>
-			<description>Now the Greek community and Greek learners are provided with the &lt;a href="http://gr.translit.cc/" title="Greeklish converter"&gt;Greeklish translator&lt;/a&gt;, which converts between Greek and Latin scripts.</description>
-			<link>http://gr.translit.cc/</link>
-			<guid isPermaLink="false">#11 on 2008-05-26 at http://gr.translit.cc/</guid>
+			<description>Now the Greek community and Greek learners are provided with the &lt;a href="https://translit.cc/gr/" title="Greeklish converter"&gt;Greeklish translator&lt;/a&gt;, which converts between Greek and Latin scripts.</description>
+			<link>https://translit.cc/gr/</link>
+			<guid isPermaLink="false">#11 on 2008-05-26 at https://translit.cc/gr/</guid>
 			<pubDate>Mon, 26 May 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Transliteration of Belarusian</title>
-			<description>Just after the &lt;a href="http://bg.translit.cc/" title="Online Bulgarian Transliteration"&gt;Bulgarian&lt;/a&gt; version, the &lt;a href="http://bg.translit.cc/" title="Online Bulgarian Transliteration"&gt;Bulgarian Transliteration&lt;/a&gt; converter follows. Any feedback from the users is greatly welcome.</description>
-			<link>http://by.translit.cc/</link>
-			<guid isPermaLink="false">#10 on 2008-05-23 at http://by.translit.cc/</guid>
+			<description>Just after the &lt;a href="https://translit.cc/bg/" title="Online Bulgarian Transliteration"&gt;Bulgarian&lt;/a&gt; version, the &lt;a href="https://translit.cc/by/" title="Online Belarusian Transliteration"&gt;Belarusian Transliteration&lt;/a&gt; converter follows. Any feedback from the users is greatly welcome.</description>
+			<link>https://translit.cc/by/</link>
+			<guid isPermaLink="false">#10 on 2008-05-23 at https://translit.cc/by/</guid>
 			<pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Bulgarian Transliteration</title>
-			<description>Today we are expanding our &lt;a href="http://translit.cc/" title="Online Transliteration"&gt;multilingual transliteration service&lt;/a&gt; with &lt;a href="http://bg.translit.cc/" title="Online Bulgarian Transliteration"&gt;Bulgarian Transliteration&lt;/a&gt; converter and spell checker.</description>
-			<link>http://bg.translit.cc/</link>
-			<guid isPermaLink="false">#9 on 2008-05-23 at http://bg.translit.cc/</guid>
+			<description>Today we are expanding our &lt;a href="https://translit.cc/" title="Online Transliteration"&gt;multilingual transliteration service&lt;/a&gt; with &lt;a href="https://translit.cc/bg/" title="Online Bulgarian Transliteration"&gt;Bulgarian Transliteration&lt;/a&gt; converter and spell checker.</description>
+			<link>https://translit.cc/bg/</link>
+			<guid isPermaLink="false">#9 on 2008-05-23 at https://translit.cc/bg/</guid>
 			<pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Translit Bookmarklet and more</title>
-			<description>For the convinience of our frequent visitors, we are offering the &lt;a href="http://translit.cc/bookmarklet" title="Transliteration Bookmarklet"&gt;translit bookmarklet&lt;/a&gt; and introducing the &lt;a href="http://translit.cc/webmasters" title="Translit Banners and Widgets"&gt;webmaster tools&lt;/a&gt;.</description>
-			<link>http://translit.cc/</link>
-			<guid isPermaLink="false">#8 on 2008-05-16 at http://translit.cc/</guid>
+			<description>For the convinience of our frequent visitors, we are offering the &lt;a href="https://translit.cc/bookmarklet" title="Transliteration Bookmarklet"&gt;translit bookmarklet&lt;/a&gt; and introducing the &lt;a href="https://translit.cc/webmasters" title="Translit Banners and Widgets"&gt;webmaster tools&lt;/a&gt;.</description>
+			<link>https://translit.cc/</link>
+			<guid isPermaLink="false">#8 on 2008-05-16 at https://translit.cc/</guid>
 			<pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Online Transliteration @ TRANSLIT.CC</title>
-			<description>To even better support our wide international audience we are moving to &lt;a href="http://translit.cc/" title="Online Transliteration"&gt;TRANSLIT.CC&lt;/a&gt;.</description>
-			<link>http://translit.cc/</link>
-			<guid isPermaLink="false">#7 on 2008-05-14 at http://translit.cc/</guid>
+			<description>To even better support our wide international audience we are moving to &lt;a href="https://translit.cc/" title="Online Transliteration"&gt;TRANSLIT.CC&lt;/a&gt;.</description>
+			<link>https://translit.cc/</link>
+			<guid isPermaLink="false">#7 on 2008-05-14 at https://translit.cc/</guid>
 			<pubDate>Wed, 14 May 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Armenian Transliteration Launch</title>
-			<description>To support Armenian-speaking community, we are releasing today the &lt;a href="http://am.translit.cc/" title="Armenian Transliteration"&gt;Armenian Translit&lt;/a&gt; converter.</description>
-			<link>http://am.translit.cc/</link>
-			<guid isPermaLink="false">#6 on 2008-04-19 at http://am.translit.cc/</guid>
+			<description>To support Armenian-speaking community, we are releasing today the &lt;a href="https://translit.cc/am/" title="Armenian Transliteration"&gt;Armenian Translit&lt;/a&gt; converter.</description>
+			<link>https://translit.cc/am/</link>
+			<guid isPermaLink="false">#6 on 2008-04-19 at https://translit.cc/am/</guid>
 			<pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
@@ -62,16 +62,16 @@
 		</item>
 		<item>
 			<title>Online Translit Version 3.0</title>
-			<description>We are excited about the release of the version 3.0 of our &lt;a href="http://translit.cc/" title="Online transliteration"&gt;online translit&lt;/a&gt; engine.</description>
-			<link>http://translit.cc/</link>
-			<guid isPermaLink="false">#4 on 2008-03-25 at http://translit.cc/</guid>
+			<description>We are excited about the release of the version 3.0 of our &lt;a href="https://translit.cc/" title="Online transliteration"&gt;online translit&lt;/a&gt; engine.</description>
+			<link>https://translit.cc/</link>
+			<guid isPermaLink="false">#4 on 2008-03-25 at https://translit.cc/</guid>
 			<pubDate>Tue, 25 Mar 2008 00:00:00 +0000</pubDate>
 		</item>
 		<item>
 			<title>Ukrainian Translit Launched</title>
-			<description>We are happy to anounce the launch of the &lt;a href="http://ua.translit.cc/" title="Ukrainian translit"&gt;Ukrainian translit&lt;/a&gt; online service.</description>
-			<link>http://ua.translit.cc/</link>
-			<guid isPermaLink="false">#3 on 2008-01-31 at http://ua.translit.cc/</guid>
+			<description>We are happy to anounce the launch of the &lt;a href="https://translit.cc/ua/" title="Ukrainian translit"&gt;Ukrainian translit&lt;/a&gt; online service.</description>
+			<link>https://translit.cc/ua/</link>
+			<guid isPermaLink="false">#3 on 2008-01-31 at https://translit.cc/ua/</guid>
 			<pubDate>Thu, 31 Jan 2008 00:00:00 +0000</pubDate>
 		</item>
 	</channel>
