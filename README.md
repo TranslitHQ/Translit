@@ -1,7 +1,5 @@
 # Translit
 
-Online JavaScript based transliteration service.
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** We are using markdown "reference style" links for readability.
@@ -22,6 +20,8 @@ Online JavaScript based transliteration service.
 
 ## Description
 
+Online JavaScript based transliteration service.
+
 Supported transliterations:
 - [Russian transliteration](https://translit.cc/)
 - [Armenian transliteration](https://translit.cc/am/)
@@ -33,7 +33,7 @@ Supported transliterations:
 
 ## Live Version
 
-The sources of the latest production version can be found in the **/docs** folder. The live version is always available at [CaseConverter.cc](https://caseconverter.cc/).
+The sources of the latest production version can be found in the **/docs** folder. The live version is always available at [Translit.cc](https://translit.cc/).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
