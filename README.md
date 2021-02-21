@@ -16,6 +16,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
+[![YouTube][youtube-shield]][youtube-url]
 [![Twitter][twitter-shield]][twitter-url]
 
 ## Description
@@ -54,6 +55,9 @@ The sources of the latest production version can be found in the **/docs** folde
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&colorB=555
 [facebook-url]: https://www.facebook.com/translit.cc
+
+[youtube-shield]: https://img.shields.io/badge/-YouTube-black.svg?style=flat-square&logo=youtube&colorB=555
+[youtube-url]: https://www.youtube.com/channel/UCQOizwljFoqomCm6jDN4zsg?sub_confirmation=1
 
 [twitter-shield]: https://img.shields.io/twitter/follow/translit?label=Follow&style=social
 [twitter-url]: https://twitter.com/intent/follow?screen_name=translit
