@@ -51,7 +51,7 @@ The sources of the latest production version can be found in the **/docs** folde
 [license-url]: https://github.com/freewarelovers/Translit/blob/master/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/showcase/translit-cc
+[linkedin-url]: https://www.linkedin.com/company/translit/
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&colorB=555
 [facebook-url]: https://www.facebook.com/translit.cc
