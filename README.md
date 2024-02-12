@@ -24,13 +24,13 @@
 Online JavaScript based transliteration service.
 
 Supported transliterations:
-- [Russian transliteration](https://translit.cc/)
-- [Armenian transliteration](https://translit.cc/am/)
-- [Ukrainian transliteration](https://translit.cc/ua/)
-- [Georgian transliteration](https://translit.cc/ge/)
-- [Greek transliteration](https://translit.cc/gr/)
-- [Bulgarian transliteration](https://translit.cc/bg/)
-- [Belarusian transliteration](https://translit.cc/by/)
+- [Russian transliteration](https://translit.cc/ "Russian Translit")
+- [Armenian transliteration](https://translit.cc/am "Armenian Translit")
+- [Ukrainian transliteration](https://translit.cc/ua "Ukrainian Translit")
+- [Georgian transliteration](https://translit.cc/ge "Georgian Translit")
+- [Greek transliteration](https://translit.cc/gr "Greek Translit")
+- [Bulgarian transliteration](https://translit.cc/bg "Bulgarian Translit")
+- [Belarusian transliteration](https://translit.cc/by "Belarusian Translit")
 
 ## Live Version
 
