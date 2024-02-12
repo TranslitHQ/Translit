@@ -85,4 +85,12 @@
 	<loc>https://translit.cc/ua/bookmarklet</loc>
 	<priority>0.5</priority>
 </url>
+<url>
+	<loc>https://translit.cc/privacy</loc>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>https://translit.cc/contact</loc>
+	<priority>0.3</priority>
+</url>
 </urlset>
